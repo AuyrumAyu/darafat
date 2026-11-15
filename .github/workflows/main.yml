@@ -1,4 +1,4 @@
-nname: Build Spellcraft 1.20.1
+name: Build Spellcraft 1.20.1
 
 on:
   push:
