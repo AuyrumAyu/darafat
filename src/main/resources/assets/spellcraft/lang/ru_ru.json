@@ -1,0 +1,16 @@
+{
+  "item.spellcraft.wand": "Волшебная палочка",
+  "spell.spellcraft.stupefy": "Ступефай (оглушение)",
+  "spell.spellcraft.leviosa": "Левиоса (левитация)",
+  "spell.spellcraft.glacius": "Гласиус (заморозка)",
+  "spell.spellcraft.incendio": "Инсендио (огонь)",
+  "spell.spellcraft.bombarda": "Бомбарда (взрыв)",
+  "spell.spellcraft.expelliarmus": "Экспеллиармус (обезоруживание)",
+  "spell.spellcraft.protego": "Протего (щит)",
+  "spell.spellcraft.accio": "Акцио (притягивание)",
+  "spell.spellcraft.lumos": "Люмос (свет)",
+  "message.spellcraft.selected": "Заклинание: %s",
+  "message.spellcraft.cooldown": "Перезарядка... %s с",
+  "tooltip.spellcraft.spell": "Заклинание: %s",
+  "tooltip.spellcraft.hint": "ПКМ: колдовать | Shift + ПКМ: следующее заклинание"
+}

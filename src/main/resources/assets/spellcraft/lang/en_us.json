@@ -1,0 +1,16 @@
+{
+  "item.spellcraft.wand": "Magic Wand",
+  "spell.spellcraft.stupefy": "Stupefy",
+  "spell.spellcraft.leviosa": "Leviosa",
+  "spell.spellcraft.glacius": "Glacius",
+  "spell.spellcraft.incendio": "Incendio",
+  "spell.spellcraft.bombarda": "Bombarda",
+  "spell.spellcraft.expelliarmus": "Expelliarmus",
+  "spell.spellcraft.protego": "Protego",
+  "spell.spellcraft.accio": "Accio",
+  "spell.spellcraft.lumos": "Lumos",
+  "message.spellcraft.selected": "Spell: %s",
+  "message.spellcraft.cooldown": "Recharging... %s s",
+  "tooltip.spellcraft.spell": "Spell: %s",
+  "tooltip.spellcraft.hint": "Right-click: cast | Sneak + right-click: next spell"
+}
